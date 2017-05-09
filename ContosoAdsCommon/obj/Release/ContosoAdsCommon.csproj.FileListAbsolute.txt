@@ -1,0 +1,10 @@
+C:\temp\webjobs\C#\ContosoAdsCommon\bin\Release\ContosoAdsCommon.dll.config
+C:\temp\webjobs\C#\ContosoAdsCommon\bin\Release\ContosoAdsCommon.dll
+C:\temp\webjobs\C#\ContosoAdsCommon\bin\Release\ContosoAdsCommon.pdb
+C:\temp\webjobs\C#\ContosoAdsCommon\bin\Release\EntityFramework.dll
+C:\temp\webjobs\C#\ContosoAdsCommon\bin\Release\EntityFramework.SqlServer.dll
+C:\temp\webjobs\C#\ContosoAdsCommon\bin\Release\EntityFramework.xml
+C:\temp\webjobs\C#\ContosoAdsCommon\bin\Release\EntityFramework.SqlServer.xml
+C:\temp\webjobs\C#\ContosoAdsCommon\obj\Release\ContosoAdsCommon.csprojResolveAssemblyReference.cache
+C:\temp\webjobs\C#\ContosoAdsCommon\obj\Release\ContosoAdsCommon.dll
+C:\temp\webjobs\C#\ContosoAdsCommon\obj\Release\ContosoAdsCommon.pdb
